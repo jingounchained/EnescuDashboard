@@ -1,0 +1,13 @@
+R:\EnescuDashboard\EnescuDashboard\bin\Release\EnescuDashboard.dll.config
+R:\EnescuDashboard\EnescuDashboard\bin\Release\EnescuDashboard.dll
+R:\EnescuDashboard\EnescuDashboard\bin\Release\EnescuDashboard.pdb
+R:\EnescuDashboard\EnescuDashboard\bin\Release\Interfaces.dll
+R:\EnescuDashboard\EnescuDashboard\obj\Release\EnescuDashboard.csprojAssemblyReference.cache
+R:\EnescuDashboard\EnescuDashboard\obj\Release\EnescuDashboard.Dashboard.resources
+R:\EnescuDashboard\EnescuDashboard\obj\Release\EnescuDashboard.Properties.Resources.resources
+R:\EnescuDashboard\EnescuDashboard\obj\Release\EnescuDashboard.csproj.GenerateResource.cache
+R:\EnescuDashboard\EnescuDashboard\obj\Release\EnescuDashboard.dll.licenses
+R:\EnescuDashboard\EnescuDashboard\obj\Release\EnescuDashboard.csproj.CoreCompileInputs.cache
+R:\EnescuDashboard\EnescuDashboard\obj\Release\EnescuDashboard.csproj.CopyComplete
+R:\EnescuDashboard\EnescuDashboard\obj\Release\EnescuDashboard.dll
+R:\EnescuDashboard\EnescuDashboard\obj\Release\EnescuDashboard.pdb
